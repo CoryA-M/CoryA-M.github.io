@@ -1,2 +1,2 @@
-# CoryA-M.github.io-
+# CoryA-M.github.io
 Portfolio website
